@@ -1,0 +1,43 @@
+PEP: 9999
+Title: Distributing Stub Files
+Version: $Revision$
+Last-Modified: $Date$
+Author: Jelle Zijlstra <jelle.zijlstra@gmail.com>
+Status: Draft
+Type: Standards Track
+Content-Type: text/x-rst
+Created: 27-May-2017
+Python-Version: 3.7
+
+
+Abstract
+========
+
+The type system introduced in PEP 484 relies on stub files to help
+type checkers understand standard library and third-party modules,
+but there is currently no standard way for authors of third-party
+modules to distribute stub files for their code.
+
+This PEP proposes a standardized way for library authors to
+distribute stub files that can be found and used by type checkers.
+
+
+References
+==========
+
+
+Copyright
+=========
+
+This document has been placed in the public domain.
+
+
+
+..
+   Local Variables:
+   mode: indented-text
+   indent-tabs-mode: nil
+   sentence-end-double-space: t
+   fill-column: 70
+   coding: utf-8
+   End:
