@@ -257,9 +257,9 @@ specification should be. While this document recommends an incremental
 approach that builds off existing specification, it does not aim to
 prescribe a final state. The Typing Council would provide a mechanism
 to allow the specification to evolve to meet the level of formality that
-the community desires, for instance, incorporating parts of
+the community desires, for instance, by incorporating parts of
 Kevin Millikin's `document on "Python Static Types" <https://docs.google.com/document/d/1mVCU-nVPT_zVfqivVdMY1aOOZqJ9lsgOLweO1U3uwUM/edit>`_
-as a basis for more formalisation of the spec.
+as a means to achieve a better formalisation of the spec.
 
 Proposed changes to the specification, including PEPs, should
 generally be accompanied by the following:
