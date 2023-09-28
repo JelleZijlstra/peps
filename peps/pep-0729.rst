@@ -8,7 +8,7 @@ Topic: Typing
 Content-Type: text/x-rst
 Created: 19-Sep-2023
 Python-Version: 3.13
-Post-History: `20-Sep-2023 <https://discuss.python.org/t/proposed-new-typing-governance-process/34244>`_
+Post-History: `20-Sep-2023 <https://discuss.python.org/t/proposed-new-typing-governance-process/34244>`__
 
 Abstract
 ========
