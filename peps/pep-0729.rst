@@ -146,7 +146,8 @@ Operations and process
 
 The council would have three members, comprised of prominent community members,
 such as Python core developers and maintainers of major type checkers. The members
-should include people affiliated with at least two distinct type checkers.
+should include people affiliated with a variety of projects related to type checking,
+which may include type checkers, CPython, typeshed, or other projects.
 
 The Steering Council would appoint the initial Typing Council. There is no term
 limit for council members. Council members may resign their position at any time.
