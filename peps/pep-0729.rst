@@ -1,6 +1,6 @@
 PEP: 729
 Title: Typing governance process
-Author: Jelle Zijlstra <jelle.zijlstra@gmail.com>
+Author: Jelle Zijlstra <jelle.zijlstra@gmail.com>, Shantanu Jain <hauntsaninja at gmail.com>
 Discussions-To: https://discuss.python.org/t/proposed-new-typing-governance-process/34244
 Status: Draft
 Type: Process
